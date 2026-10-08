@@ -5,5 +5,20 @@
     <link>https://github.com/0xLou1s/stash-releases</link>
     <description>Updates for Stash for Mac</description>
     <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Thu, 08 Oct 2026 18:06:11 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[The first release of Stash for Mac.
+
+- Browse posts you save from X in a masonry gallery or justified rows
+- Hover a video to preview it; open a post to play it
+- Collections, Inbox, Trash and search
+- Posts saved with the Stash Chrome extension sync in while the app is running
+- Updates install automatically from now on]]></description>
+      <enclosure url="https://github.com/0xLou1s/stash-releases/releases/download/v0.1.0/Stash-0.1.0.zip" type="application/octet-stream" sparkle:edSignature="3zUbbhJoAJeN4FGi1r6t9Ez7CFMd7+GasVJXaab5S9DCVvJyWuhQF4ujlqzBV1h2M0wumaIMJB7Lq/8Qz7aPAw==" length="3873910" />
+    </item>
   </channel>
 </rss>
